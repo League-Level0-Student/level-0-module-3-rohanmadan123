@@ -32,7 +32,6 @@ Now put his head on using drawBeeFace(x,y)
 
 }
 
-
 /**************   Use these methods but  DON'T CHANGE THE CODE BELOW  **************/
 
 void drawFlower(int x, int y) {

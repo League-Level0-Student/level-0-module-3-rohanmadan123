@@ -7,6 +7,7 @@ import org.jointheleague.graphical.robot.Robot;
 
 import java.awt.Color;
 
+
 public class RobotColorChooser {
 	public static void main(String[] args) {
 		int i = (int)(51*Math.random());
